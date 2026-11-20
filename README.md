@@ -53,9 +53,9 @@ I'm always interested in connecting with developers and exploring frontend devel
 
 GitHub: @ashfaqnoor56
 
-LinkedIn: Ashfaq N
+LinkedIn: www.linkedin.com/in/ashfaq-n-743144323
 
-Portfolio: My Website
+Email: ashfaqstriker@gmail.con
 
 Thanks for visiting my profile! ⭐
 
