@@ -1,10 +1,63 @@
-## Hi there 👋
+## Hey, I'm Ashfaq 👋
 
-- 🔭 I'm Ashfaq, Frontend Developer, Chennai.
-- 🌱 I designed and build whatever I can imagine.
-- 👯 If idea pops into my head, the chances are I'll build it and ship it.
-- 🤔 My main tech is react, javascript, typescript, redux. My favorite tool is tailwind and framework is bootstrap.
-- 💬 I had some of pinned projects but fav one is my first project.
-- ⚡ Fun fact: 
-        * Caffine addict.
-        * Hobbies: Cricket, Anime (especially Demon slayer)
+Frontend Developer | React Developer
+
+I build responsive, user-friendly web applications with a focus on clean UI, reusable components, and maintainable code.
+
+I'm passionate about turning ideas into interactive web experiences and continuously improving my frontend development skills.
+
+📍 Chennai, India
+
+👨‍💻 About Me
+
+   🔭 Focused on building modern frontend applications.
+
+   ⚛️ Working with React.js and JavaScript.
+
+   🎨 Interested in responsive UI and clean design.
+
+   🔌 Experienced with REST API integration and Redux Toolkit Query.
+
+   🌱 Continuously learning and improving my development skills.
+
+   🎯 Looking for opportunities as a Junior Frontend / React Developer.
+
+   
+
+🛠️ Tech Stack
+
+Frontend
+    * HTML
+    * CSS
+    * Javascript
+    * React
+    * Bootstrap 
+    * Tailwind CSS
+
+State Management & API
+    * Redux Toolkit
+    * RTK Query
+    * Rest APIs
+    
+Development Tools
+    * Git
+    * Github
+    * VS Code
+    * Vercel
+    * Netlify
+    * Postman
+
+🤝 Let's Connect
+
+I'm always interested in connecting with developers and exploring frontend development opportunities.
+
+GitHub: @ashfaqnoor56
+
+LinkedIn: Ashfaq N
+
+Portfolio: My Website
+
+Thanks for visiting my profile! ⭐
+
+
+
