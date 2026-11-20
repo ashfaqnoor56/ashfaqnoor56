@@ -8,21 +8,6 @@ I'm passionate about turning ideas into interactive web experiences and continuo
 
 📍 Chennai, India
 
-👨‍💻 About Me
-
-   🔭 Focused on building modern frontend applications.
-
-   ⚛️ Working with React.js and JavaScript.
-
-   🎨 Interested in responsive UI and clean design.
-
-   🔌 Experienced with REST API integration and Redux Toolkit Query.
-
-   🌱 Continuously learning and improving my development skills.
-
-   🎯 Looking for opportunities as a Junior Frontend / React Developer.
-
-   
 
 🛠️ Tech Stack
 
