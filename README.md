@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-
 - 🔭 I'm Ashfaq, Frontend Developer, Chennai.
 - 🌱 I designed and build whatever I can imagine.
 - 👯 If idea pops into my head, the chances are I'll build it and ship it.
@@ -11,4 +8,3 @@
 - ⚡ Fun fact: 
         * Caffine addict.
         * Hobbies: Cricket, Anime (especially Demon slayer)
--->
